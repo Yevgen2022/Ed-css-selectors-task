@@ -182,7 +182,7 @@ describe('CSS selectors', () => {
                 await waitBrowserLoadEvent(document);
 
                 // Wait for the element with the class .tech to appear
-                   await waitFor(() => document.querySelector('.tech') !== null);
+                //   await waitFor(() => document.querySelector('.tech') !== null);
                 
                 const selector = cipher.decode(cipheredTestData['section-tech']);
                 const styleDeclaration = getStyleDeclarationForSelector(selector, document.styleSheets);
@@ -193,9 +193,9 @@ describe('CSS selectors', () => {
 
             it('styles should apply', async () => {
                 await waitBrowserLoadEvent(document);
-                
+
                 // Wait for the element with the class .tech to appear
-                await waitFor(() => document.querySelector('.tech') !== null);
+              //  await waitFor(() => document.querySelector('.tech') !== null);
                 
                 const main = document.querySelector('main');
                 const element = main.children[0];

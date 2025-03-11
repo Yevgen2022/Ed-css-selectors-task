@@ -62,11 +62,11 @@ nav {
 
 /* //////////////////// Third require /////////////////////////////// */
 
-ol>li:first-child {
+ol > li:first-child {
     border-bottom: 3px solid darkmagenta;
 }
 
-ol>li:last-child {
+ol > li:last-child {
     border-top: 3px solid darkturquoise;
 }
 
