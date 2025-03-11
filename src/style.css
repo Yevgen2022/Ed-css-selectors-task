@@ -48,7 +48,7 @@ nav {
     border-left: 4px solid;
 }
 
-#main-header + .main-footer {
+#main-header+.main-footer {
     padding: 10px;
     margin-top: 10px;
     border: 3px solid darkkhaki;
@@ -56,6 +56,36 @@ nav {
 
 .main-navigation>ul {
     list-style: none;
-    padding-left: 15px;    
+    padding-left: 15px;
 }
+
+/* ///////////////////////////////////////////////////////////////// */
+
+/* //////////////////// Third require /////////////////////////////// */
+
+ol>li:first-child {
+    border-bottom: 3px solid darkmagenta;
+}
+
+ol>li:last-child {
+    border-top: 3px solid darkturquoise;
+}
+
+.main-footer a:hover {
+    color: yellowgreen;
+}
+
+a:focus {
+    background-color: yellow;
+}
+
+.tech h2::before {
+    content: '🤖';
+}
+
+.spaceflight h2::after {
+    content: '🚀';
+}
+
+
 /* ///////////////////////////////////////////////////////////////// */
