@@ -10,8 +10,7 @@ body {
 
 .main-heading {
     font-style: italic;
-    text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration: underline dotted;
 }
 
 section {
