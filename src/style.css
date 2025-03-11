@@ -22,11 +22,11 @@ section {
 
 /* //////////////////// Second require /////////////////////////////// */
 
-.tech {
+section.tech {
     border: 3px solid darkolivegreen;
 }
 
-.spaceflight {
+section.spaceflight {
     border: 3px solid darkmagenta;
 }
 
