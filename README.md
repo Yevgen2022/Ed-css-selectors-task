@@ -2,15 +2,10 @@
 
 A practical CSS project focused on applying various types of selectors to style existing HTML markup without changing its structure. The task reinforces the use of basic, combinator, pseudo-class, and pseudo-element selectors with precision.
 
-## 🚀 Live Demo
-👉 [Click here to view](https://css-selectors-abc06f.gitlab.io)
-<!-- 
-## 📁 Repository
-👉 [GitLab Repo](https://gitlab.com/Yevhen2022/css-selectors-task) -->
+## Live Demo
+[Click here to view](https://css-selectors-abc06f.gitlab.io)
 
----
-
-## 🧠 Key Concepts Applied
+## Key Concepts Applied
 
 - Used basic selectors to style body, IDs, and class elements
 - Applied combinator selectors such as descendant, direct child, and adjacent sibling
@@ -21,7 +16,7 @@ A practical CSS project focused on applying various types of selectors to style 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - HTML5
 - CSS3
@@ -30,6 +25,6 @@ A practical CSS project focused on applying various types of selectors to style 
 
 ---
 
-## 📝 Task Instructions
+## Task Instructions
 
 See [REQUIREMENTS.md](./REQUIREMENTS.md) for the full original task description and required selectors.
