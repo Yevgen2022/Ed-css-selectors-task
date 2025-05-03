@@ -3,7 +3,7 @@
 A practical CSS project focused on applying various types of selectors to style existing HTML markup without changing its structure. The task reinforces the use of basic, combinator, pseudo-class, and pseudo-element selectors with precision.
 
 ## Live Demo
-[Click here to view](https://css-selectors-abc06f.gitlab.io)
+[Click here to view](https://yevgen2022.github.io/Ed-css-selectors-task/)
 
 ## Key Concepts Applied
 
